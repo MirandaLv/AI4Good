@@ -11,6 +11,12 @@
   * Ensure data privacy
   * Design the user experience: Data imbalance or other concerns about the data; What kind of model to implement and how to measure accuracy? What are the metric to consider. How will the end-user being interact with the system, etc.
 
+    * Before implementation, checkpoint
+      * How will you address issues with imbalances, biases, privacy or other concerns with the data
+      * What kind of model will implement and how to measure the model performance? In terms of improving model performance, collect more data related to different senariors to help the model be more generalizable.
+      * How will the design address the problem you set out to work on?
+      * How will the end user interact with your system (model?)
+
 - Implement phase
   * Productionize AI models
   * Integrate the user experience 
