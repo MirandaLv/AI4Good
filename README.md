@@ -21,6 +21,9 @@
   * Productionize AI models
   * Integrate the user experience 
   * Test with end users and collect feedback, etc.
+    * Checkpoint
+      * Is the model performance acceptable?
+      * Are end users be able to successfully use/interact with the system?
 
 - Evaluation phase
   * Measure impact of the project, what does success look like? As during the exploration phase, such topic should be discussed. 
